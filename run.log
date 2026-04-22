@@ -1,0 +1,18 @@
+2026-04-22 16:18:32,334 - INFO - Job started
+2026-04-22 16:18:32,347 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 16:18:32,395 - ERROR - Error occurred: Missing required column: close
+2026-04-22 16:18:32,396 - INFO - Job failed
+2026-04-22 16:25:19,898 - INFO - Job started
+2026-04-22 16:25:19,909 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 16:25:19,914 - ERROR - Error occurred: Invalid CSV format
+2026-04-22 16:25:19,914 - INFO - Job failed
+2026-04-22 16:36:57,041 - INFO - Job started
+2026-04-22 16:36:57,042 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 16:36:57,068 - ERROR - Error occurred: Missing required column: close
+2026-04-22 16:36:57,069 - INFO - Job failed
+2026-04-22 16:38:08,478 - INFO - Job started
+2026-04-22 16:38:08,479 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 16:38:08,504 - INFO - Rows loaded: 10000
+2026-04-22 16:38:08,531 - INFO - Rolling mean and signal computed
+2026-04-22 16:38:08,533 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 53, 'seed': 42, 'status': 'success'}
+2026-04-22 16:38:08,534 - INFO - Job completed successfully
