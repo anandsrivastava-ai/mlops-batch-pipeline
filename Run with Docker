@@ -1,4 +1,4 @@
-## 🚀 Run with Docker
+## Run with Docker
 
 docker build -t mlops-task .
 docker run --rm mlops-task
